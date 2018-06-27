@@ -1,5 +1,6 @@
 {
     "about": "About",
+	"appname":"app",
     "appready": "App ready",
     "cacheexpirationtime": "Cache expiry time (milliseconds)",
     "cannotsyncoffline": "Cannot synchronise offline.",
